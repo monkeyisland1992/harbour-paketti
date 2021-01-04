@@ -52,7 +52,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="106"/>
         <source>Author does not take any responsibility for the information provided by the application. This is not an official application for the couriers.</source>
-        <translation>Der Autor der Anwendung übernimmt keine Verantwortung für den Fall, dass die Anwendung ungültige Informationen liefert. Dies ist kein offizieller Anwendung für Kuriere.</translation>
+        <translation>Der Autor der Anwendung übernimmt keine Verantwortung für den Fall, dass die Anwendung ungültige Informationen liefert. Dies ist keine offizielle Anwendung für Kuriere.</translation>
     </message>
 </context>
 <context>
@@ -86,7 +86,7 @@
     <message>
         <location filename="../qml/pages/Details.qml" line="57"/>
         <source>Courier</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dienstleister"></translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="65"/>
@@ -101,12 +101,15 @@
 – The item has not yet been entered in the system.
 – The item was posted long time ago and has been already removed from couriers system
 – There is a problem with the system or the item</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dies kann einen der folgenden Gründe haben:
+- Der Artikel wurde noch nicht zur Lieferung abgegeben.
+- Der Artikel wurde noch nicht in das System eingegeben.
+- Der Artikel wurde vor langer Zeit veröffentlicht und bereits aus dem Kuriersystem entfernt"></translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="65"/>
         <source>The following error was returned: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Der folgende Fehler wurde zurückgegeben:"></translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="79"/>
@@ -116,7 +119,7 @@
     <message>
         <location filename="../qml/pages/Details.qml" line="82"/>
         <source>Service</source>
-        <translation type="unfinished"></translation>
+        <translation type="Service"></translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="85"/>
@@ -131,7 +134,7 @@
     <message>
         <location filename="../qml/pages/Details.qml" line="91"/>
         <source>Extra services</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zusatz Leistung"></translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="94"/>
@@ -161,7 +164,7 @@
     <message>
         <location filename="../qml/pages/Details.qml" line="109"/>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nächster Schritt"></translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="121"/>
@@ -199,24 +202,24 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="158"/>
         <source>Courier</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dienstleister"></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="159"/>
         <location filename="../qml/pages/MainPage.qml" line="187"/>
         <location filename="../qml/pages/MainPage.qml" line="192"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation type="Auswählen"></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="160"/>
         <source>The courier is autoselected when entering a tracking code if possible.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Der Dienstleister wird bei der Eingabe eines Tracking-Codes nach Möglichkeit automatisch ausgewählt."></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="219"/>
         <source>Enter tracking code</source>
-        <translation type="unfinished"></translation>
+        <translation type="Sendungsnummer"></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="259"/>
@@ -226,7 +229,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="267"/>
         <source>Start by choosing a courier and entering the tracking code in the box above. Tracked shipments will be saved automatically</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wählen Sie zunächst einen Dienstleister aus und geben Sie die Sendungsnummer in das Feld oben ein. Verfolgte Sendungen werden automatisch gespeichert"></translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="372"/>
@@ -251,7 +254,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="389"/>
         <source>Copy tracking number</source>
-        <translation>Verfolgungsnummer kopieren</translation>
+        <translation>Sendungsnummer kopieren</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="393"/>
